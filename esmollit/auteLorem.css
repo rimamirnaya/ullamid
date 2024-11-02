@@ -1,0 +1,7 @@
+.element {
+    width: 200px;
+    height: 200px;
+    background: linear-gradient(to right, red, blue);
+    background-position: center;
+    background-size: 200% 200%;
+}
